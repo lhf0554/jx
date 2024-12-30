@@ -33,3 +33,4 @@ https://tv.iill.top/m3u/Gather
 https://raw.gitmirror.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://raw.gitmirror.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.gitmirror.com/joevess/IPTV/main/m3u/iptv.m3u
+http://uk.frp.one:29999/new/mdzb.txt
