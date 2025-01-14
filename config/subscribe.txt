@@ -20,6 +20,7 @@ https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://4key.cn/FP
 https://raw.gitmirror.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt
 http://8.138.7.223/v12.txt
+http://106.53.99.30/vip.txt
 https://raw.gitmirror.com/qinvision/Film-Television/refs/heads/main/dujuejiami.txt
 https://raw.gitmirror.com/250992941/iptv/refs/heads/main/HZ.txt
 https://gitea.moe/xiangjiao-ge/yifa169/raw/branch/main/yiyifafa.txt
@@ -35,3 +36,4 @@ https://raw.gitmirror.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
 https://raw.gitmirror.com/joevess/IPTV/main/m3u/iptv.m3u
 http://uk.frp.one:29999/new/mdzb.txt
 https://pastebin.com/raw/tuXBQs7U
+https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt
