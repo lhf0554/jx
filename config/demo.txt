@@ -170,6 +170,9 @@ CNA
 Channel 5
 Channel 8
 Channel U
+Channel5
+Channel8
+ChannelU
 
 🎥港澳台频道,#genre#
 18台
