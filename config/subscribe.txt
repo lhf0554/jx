@@ -43,6 +43,9 @@ https://raw.githubusercontent.com/joevess/IPTV/main/m3u/iptv.m3u
 http://211.101.234.24:866/aishang.txt
 http://uk.frp.one:29999/new/mdzb.txt
 https://pastebin.com/raw/tuXBQs7U
+https://gitee.com/ll8000/iptv/raw/master/output/66tv_result.txt
+https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/AKTV.txt
+
 https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt
 http://tot.totalh.net/tttt.txt
 
