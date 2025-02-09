@@ -48,4 +48,9 @@ https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/AKTV.txt
 http://itv.yhtv.us.kg/test.m3u
 https://pan.imotao.com/down.php/de747663cce00792fe95a86cdf9af96c.txt
 http://tot.totalh.net/tttt.txt
+https://git.acwing.com/xlysyyds/dxl900109/-/raw/622c4f8d543a1aed744bec79cec43159cd75e090/%E5%B0%8F%E9%BE%99%E7%94%B5%E8%A7%86%E9%85%B79.txt
+https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt
+https://raw.githubusercontent.com/zzmaze/iptv/refs/heads/main/itvlist.txt
+https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
 
