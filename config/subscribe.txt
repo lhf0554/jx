@@ -53,4 +53,4 @@ https://raw.githubusercontent.com/mlzlzj/iptv/refs/heads/main/iptv_list.txt
 https://raw.githubusercontent.com/zzmaze/iptv/refs/heads/main/itvlist.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
 https://gitee.com/xxy002/zhiboyuan/raw/master/dsy
-
+http://iptv.diyp.site/diyp.php
