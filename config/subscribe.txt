@@ -90,3 +90,4 @@ https://raw.gitmirror.com/wcb1969/iptv/refs/heads/main/%E5%B9%BF%E7%94%B5%E6%9C%
 https://raw.gitmirror.com/wcb1969/iptv/refs/heads/main/%E7%94%B5%E4%BF%A1IPTV.txt
 https://raw.gitmirror.com/wcb1969/iptv/refs/heads/main/%E7%94%B5%E4%BF%A1ITV.txt
 https://raw.gitmirror.com/wcb1969/iptv/refs/heads/main/%E9%AB%98%E6%B8%85%E6%99%AE%E9%80%9A%E7%9B%B4%E6%92%AD%E6%BA%9020250204.txt
+http://zhibo.feylen.top/fltv/users/user_channel.txt
