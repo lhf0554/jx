@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250427051130 +0800">
+<tv date="20250427105433 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10080,6 +10080,12 @@
 	<programme channel="黑莓电影" start="20250427115200 +0800" stop="20250427131100 +0800">
 		<title lang="zh">搜神记：南海美人鲛</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250427131100 +0800" stop="20250427143500 +0800">
+		<title lang="zh">捍战</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250427143500 +0800" stop="20250427160700 +0800">
+		<title lang="zh">摩登澡堂</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10182,9 +10188,6 @@
 	<programme channel="黑龙江卫视" start="20250427233600 +0800" stop="20250427235900 +0800">
 		<title lang="zh">活力剧场:亮剑</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -10266,4 +10269,7 @@
 	<programme channel="五星体育" start="20250427234000 +0800" stop="20250427235959 +0800">
 		<title lang="zh">高山滑雪精英赛</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 </tv>
