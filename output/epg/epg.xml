@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250502051733 +0800">
+<tv date="20250502110647 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10362,6 +10362,15 @@
 	<programme channel="黑莓电影" start="20250502091400 +0800" stop="20250502112100 +0800">
 		<title lang="zh">大红包2：龙凤呈祥</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250502112100 +0800" stop="20250502125300 +0800">
+		<title lang="zh">蜡笔小新：梦境世界大突击</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250502125300 +0800" stop="20250502152300 +0800">
+		<title lang="zh">变形金刚2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250502152300 +0800" stop="20250502165500 +0800">
+		<title lang="zh">大神猴3情劫篇</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10467,9 +10476,6 @@
 	<programme channel="黑龙江卫视" start="20250502233600 +0800" stop="20250502235900 +0800">
 		<title lang="zh">活力剧场:小巷人家</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -10536,4 +10542,67 @@
 	<programme channel="五星体育" start="20250502234100 +0800" stop="20250502235959 +0800">
 		<title lang="zh">202425赛季NBA季后赛</title>
 	</programme>
+	<channel id="TVBS新闻">
+		<display-name lang="zh">TVBS新闻</display-name>
+	</channel>
+	<programme channel="TVBS新闻" start="20250502000000 +0800" stop="20250502010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502010000 +0800" stop="20250502020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502020000 +0800" stop="20250502040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502040000 +0800" stop="20250502050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502050000 +0800" stop="20250502060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502060000 +0800" stop="20250502090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502090000 +0800" stop="20250502100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502100000 +0800" stop="20250502110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502110000 +0800" stop="20250502120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502120000 +0800" stop="20250502140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502140000 +0800" stop="20250502150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502150000 +0800" stop="20250502160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502160000 +0800" stop="20250502170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502170000 +0800" stop="20250502180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502180000 +0800" stop="20250502200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502200000 +0800" stop="20250502210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502210000 +0800" stop="20250502220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502220000 +0800" stop="20250502230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20250502230000 +0800" stop="20250502235959 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 </tv>
