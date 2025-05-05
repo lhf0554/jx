@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250505051853 +0800">
+<tv date="20250505110645 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10479,6 +10479,12 @@
 	<programme channel="黑莓电影" start="20250505101600 +0800" stop="20250505122900 +0800">
 		<title lang="zh">还是觉得你最好2</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250505122900 +0800" stop="20250505143900 +0800">
+		<title lang="zh">一代宗师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250505143900 +0800" stop="20250505161000 +0800">
+		<title lang="zh">仙剑奇侠传前传：酒剑仙</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10581,6 +10587,9 @@
 	<programme channel="黑龙江卫视" start="20250505233600 +0800" stop="20250505235900 +0800">
 		<title lang="zh">活力剧场:小巷人家</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -10662,7 +10671,4 @@
 	<programme channel="五星体育" start="20250505220000 +0800" stop="20250505235959 +0800">
 		<title lang="zh">弈棋耍大牌</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
