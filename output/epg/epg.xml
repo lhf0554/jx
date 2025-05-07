@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250507051217 +0800">
+<tv date="20250507110945 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10362,6 +10362,15 @@
 	<programme channel="黑莓电影" start="20250507100700 +0800" stop="20250507115500 +0800">
 		<title lang="zh">谁的青春不迷茫</title>
 	</programme>
+	<programme channel="黑莓电影" start="20250507115500 +0800" stop="20250507134900 +0800">
+		<title lang="zh">航海王：红发歌姬</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250507134900 +0800" stop="20250507152000 +0800">
+		<title lang="zh">有匪b7破雪斩</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250507152000 +0800" stop="20250507170900 +0800">
+		<title lang="zh">钢铁，是这样炼成的</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -10470,163 +10479,4 @@
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
-	<channel id="五星体育">
-		<display-name lang="zh">五星体育</display-name>
-	</channel>
-	<programme channel="五星体育" start="20250507003500 +0800" stop="20250507013000 +0800">
-		<title lang="zh">中国比利时</title>
-	</programme>
-	<programme channel="五星体育" start="20250507013000 +0800" stop="20250507022500 +0800">
-		<title lang="zh">155米障碍赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507022500 +0800" stop="20250507032000 +0800">
-		<title lang="zh">2024世界泳联游泳世界杯第一天</title>
-	</programme>
-	<programme channel="五星体育" start="20250507032000 +0800" stop="20250507041500 +0800">
-		<title lang="zh">广东东阳光上海久事</title>
-	</programme>
-	<programme channel="五星体育" start="20250507041500 +0800" stop="20250507051000 +0800">
-		<title lang="zh">2024赛季中国乒乓球俱乐部超级联赛总决赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507051000 +0800" stop="20250507055500 +0800">
-		<title lang="zh">2025世界一级方程式锦标赛中国站大奖赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507055500 +0800" stop="20250507063000 +0800">
-		<title lang="zh">成都蓉城上海申花</title>
-	</programme>
-	<programme channel="五星体育" start="20250507063000 +0800" stop="20250507075200 +0800">
-		<title lang="zh">自行车联赛高校赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507075200 +0800" stop="20250507085000 +0800">
-		<title lang="zh">德雷珀阿尔卡拉斯</title>
-	</programme>
-	<programme channel="五星体育" start="20250507085000 +0800" stop="20250507095500 +0800">
-		<title lang="zh">2024世界泳联游泳世界杯第二天</title>
-	</programme>
-	<programme channel="五星体育" start="20250507095500 +0800" stop="20250507100000 +0800">
-		<title lang="zh">健身时代精选周三</title>
-	</programme>
-	<programme channel="五星体育" start="20250507100000 +0800" stop="20250507120000 +0800">
-		<title lang="zh">弈棋耍大牌上海三打一</title>
-	</programme>
-	<programme channel="五星体育" start="20250507120000 +0800" stop="20250507120500 +0800">
-		<title lang="zh">健身时代精选周三</title>
-	</programme>
-	<programme channel="五星体育" start="20250507120500 +0800" stop="20250507123500 +0800">
-		<title lang="zh">五星精彩食来运转2</title>
-	</programme>
-	<programme channel="五星体育" start="20250507123500 +0800" stop="20250507130000 +0800">
-		<title lang="zh">2024巴黎奥运会射击男子10米气手枪决赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507130000 +0800" stop="20250507140000 +0800">
-		<title lang="zh">弈棋耍大牌</title>
-	</programme>
-	<programme channel="五星体育" start="20250507140000 +0800" stop="20250507140500 +0800">
-		<title lang="zh">健身时代精选周三</title>
-	</programme>
-	<programme channel="五星体育" start="20250507140500 +0800" stop="20250507143200 +0800">
-		<title lang="zh">2025极速终点线1</title>
-	</programme>
-	<programme channel="五星体育" start="20250507143200 +0800" stop="20250507152900 +0800">
-		<title lang="zh">掘金快船</title>
-	</programme>
-	<programme channel="五星体育" start="20250507152900 +0800" stop="20250507155000 +0800">
-		<title lang="zh">2024巴黎奥运会体操男子双杠决赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507155000 +0800" stop="20250507155500 +0800">
-		<title lang="zh">健身时代精选周三</title>
-	</programme>
-	<programme channel="五星体育" start="20250507155500 +0800" stop="20250507163000 +0800">
-		<title lang="zh">梅州客家上海申花</title>
-	</programme>
-	<programme channel="五星体育" start="20250507163000 +0800" stop="20250507170000 +0800">
-		<title lang="zh">五星精彩食来运转2</title>
-	</programme>
-	<programme channel="五星体育" start="20250507170000 +0800" stop="20250507180000 +0800">
-		<title lang="zh">五星精彩弈棋耍大牌精彩牌局</title>
-	</programme>
-	<programme channel="五星体育" start="20250507180000 +0800" stop="20250507190000 +0800">
-		<title lang="zh">弈棋耍大牌</title>
-	</programme>
-	<programme channel="五星体育" start="20250507190000 +0800" stop="20250507193100 +0800">
-		<title lang="zh">体育新闻</title>
-	</programme>
-	<programme channel="五星体育" start="20250507193100 +0800" stop="20250507201300 +0800">
-		<title lang="zh">2025世界一级方程式锦标赛迈阿密站大奖赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507201300 +0800" stop="20250507204600 +0800">
-		<title lang="zh">2024年世界F1H20摩托艇锦标赛中国上海大奖赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507204600 +0800" stop="20250507215500 +0800">
-		<title lang="zh">150米障碍赛</title>
-	</programme>
-	<programme channel="五星体育" start="20250507215500 +0800" stop="20250507220000 +0800">
-		<title lang="zh">健身时代精选周三</title>
-	</programme>
-	<programme channel="五星体育" start="20250507220000 +0800" stop="20250507234000 +0800">
-		<title lang="zh">弈棋耍大牌上海三打一</title>
-	</programme>
-	<programme channel="五星体育" start="20250507234000 +0800" stop="20250507235959 +0800">
-		<title lang="zh">巴尔的摩乌鸦布法罗比尔</title>
-	</programme>
-	<channel id="TVBS新闻">
-		<display-name lang="zh">TVBS新闻</display-name>
-	</channel>
-	<programme channel="TVBS新闻" start="20250507000000 +0800" stop="20250507010000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507010000 +0800" stop="20250507020000 +0800">
-		<title lang="zh">十点不一样</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507020000 +0800" stop="20250507040000 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507040000 +0800" stop="20250507050000 +0800">
-		<title lang="zh">九点热话题</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507050000 +0800" stop="20250507060000 +0800">
-		<title lang="zh">十点不一样</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507060000 +0800" stop="20250507090000 +0800">
-		<title lang="zh">早安台湾</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507090000 +0800" stop="20250507100000 +0800">
-		<title lang="zh">上午9点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507100000 +0800" stop="20250507110000 +0800">
-		<title lang="zh">上午10点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507110000 +0800" stop="20250507120000 +0800">
-		<title lang="zh">上午11点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507120000 +0800" stop="20250507140000 +0800">
-		<title lang="zh">午间1213新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507140000 +0800" stop="20250507150000 +0800">
-		<title lang="zh">说新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507150000 +0800" stop="20250507160000 +0800">
-		<title lang="zh">1500整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507160000 +0800" stop="20250507170000 +0800">
-		<title lang="zh">16整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507170000 +0800" stop="20250507180000 +0800">
-		<title lang="zh">17整点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507180000 +0800" stop="20250507200000 +0800">
-		<title lang="zh">晚间67点新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507200000 +0800" stop="20250507210000 +0800">
-		<title lang="zh">最前线新闻</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507210000 +0800" stop="20250507220000 +0800">
-		<title lang="zh">九点热话题</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507220000 +0800" stop="20250507230000 +0800">
-		<title lang="zh">十点不一样</title>
-	</programme>
-	<programme channel="TVBS新闻" start="20250507230000 +0800" stop="20250507235959 +0800">
-		<title lang="zh">新闻夜视界</title>
-	</programme>
 </tv>
