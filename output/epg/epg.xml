@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250509050315 +0800">
+<tv date="20250509105921 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -9549,6 +9549,153 @@
 	<programme channel="重庆卫视" start="20250509233200 +0800" stop="20250509235900 +0800">
 		<title lang="zh">午夜剧场:苍狼(4)</title>
 	</programme>
+	<channel id="金鹰纪实">
+		<display-name lang="zh">金鹰纪实</display-name>
+	</channel>
+	<programme channel="金鹰纪实" start="20250509000000 +0800" stop="20250509004000 +0800">
+		<title lang="zh">开始</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509004000 +0800" stop="20250509011000 +0800">
+		<title lang="zh">纪录时间</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509011000 +0800" stop="20250509020000 +0800">
+		<title lang="zh">点赞中国</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509020000 +0800" stop="20250509023000 +0800">
+		<title lang="zh">纪实真好看</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509023000 +0800" stop="20250509030000 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509030000 +0800" stop="20250509034500 +0800">
+		<title lang="zh">寰宇地理</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509034500 +0800" stop="20250509040000 +0800">
+		<title lang="zh">看世界</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509040000 +0800" stop="20250509043000 +0800">
+		<title lang="zh">看世界</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509043000 +0800" stop="20250509050000 +0800">
+		<title lang="zh">探索</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509050000 +0800" stop="20250509054500 +0800">
+		<title lang="zh">历史片场</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509054500 +0800" stop="20250509063000 +0800">
+		<title lang="zh">历史片场(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509063000 +0800" stop="20250509071500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509071500 +0800" stop="20250509080000 +0800">
+		<title lang="zh">寰宇地理(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509080000 +0800" stop="20250509082500 +0800">
+		<title lang="zh">历史片场(7)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509082500 +0800" stop="20250509090500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509090500 +0800" stop="20250509093000 +0800">
+		<title lang="zh">历史片场(7)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509093000 +0800" stop="20250509095000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509095000 +0800" stop="20250509101500 +0800">
+		<title lang="zh">历史片场(上)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509101500 +0800" stop="20250509105000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509105000 +0800" stop="20250509111500 +0800">
+		<title lang="zh">历史片场(下)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509111500 +0800" stop="20250509120000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509120000 +0800" stop="20250509122500 +0800">
+		<title lang="zh">空中浩劫</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509122500 +0800" stop="20250509125000 +0800">
+		<title lang="zh">历史片场(下)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509125000 +0800" stop="20250509133000 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509133000 +0800" stop="20250509140500 +0800">
+		<title lang="zh">纪录时间(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509140500 +0800" stop="20250509142500 +0800">
+		<title lang="zh">精彩全纪实</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509142500 +0800" stop="20250509144500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509144500 +0800" stop="20250509150500 +0800">
+		<title lang="zh">精彩全纪实</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509150500 +0800" stop="20250509154500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509154500 +0800" stop="20250509161000 +0800">
+		<title lang="zh">精彩全纪实</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509161000 +0800" stop="20250509163500 +0800">
+		<title lang="zh">历史片场(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509163500 +0800" stop="20250509171500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509171500 +0800" stop="20250509173500 +0800">
+		<title lang="zh">历史片场(2)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509173500 +0800" stop="20250509182500 +0800">
+		<title lang="zh">专题</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509182500 +0800" stop="20250509191000 +0800">
+		<title lang="zh">动物园秘辛Ⅳ</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509191000 +0800" stop="20250509191500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509191500 +0800" stop="20250509194000 +0800">
+		<title lang="zh">指尖上的传承(3)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509194000 +0800" stop="20250509195000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509195000 +0800" stop="20250509204000 +0800">
+		<title lang="zh">百年老店的朋友圈Ⅰ(3)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509204000 +0800" stop="20250509210500 +0800">
+		<title lang="zh">马王堆岁月不朽(8)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509210500 +0800" stop="20250509211500 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509211500 +0800" stop="20250509220000 +0800">
+		<title lang="zh">湖湘一万年(3)等</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509220000 +0800" stop="20250509220500 +0800">
+		<title lang="zh">纪实风云</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509220500 +0800" stop="20250509225000 +0800">
+		<title lang="zh">绝地生存高手纳米比亚等</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509225000 +0800" stop="20250509230000 +0800">
+		<title lang="zh">广告</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509230000 +0800" stop="20250509232500 +0800">
+		<title lang="zh">新闻大求真</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509232500 +0800" stop="20250509235500 +0800">
+		<title lang="zh">荒野求生(7)</title>
+	</programme>
+	<programme channel="金鹰纪实" start="20250509235500 +0800" stop="20250509235900 +0800">
+		<title lang="zh">熊猫一家人(8)</title>
+	</programme>
 	<channel id="陕西卫视">
 		<display-name lang="zh">陕西卫视</display-name>
 	</channel>
@@ -10250,6 +10397,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250509095900 +0800" stop="20250509112700 +0800">
 		<title lang="zh">暮光b7巴黎</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250509112700 +0800" stop="20250509125300 +0800">
+		<title lang="zh">少年棋王</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250509125300 +0800" stop="20250509144500 +0800">
+		<title lang="zh">业火的向日葵</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250509144500 +0800" stop="20250509161600 +0800">
+		<title lang="zh">妈妈你真棒</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
