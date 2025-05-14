@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250514050514 +0800">
+<tv date="20250514110133 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8300,6 +8300,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250514090700 +0800" stop="20250514103100 +0800">
 		<title lang="zh">扎职3：义薄云天</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250514103100 +0800" stop="20250514120400 +0800">
+		<title lang="zh">怪物史莱克4</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250514120400 +0800" stop="20250514133300 +0800">
+		<title lang="zh">市井英雄</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250514133300 +0800" stop="20250514151300 +0800">
+		<title lang="zh">射雕英雄传之九阴白骨爪</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250514151300 +0800" stop="20250514165800 +0800">
+		<title lang="zh">天坑鹰猎</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
