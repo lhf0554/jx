@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250517050158 +0800">
+<tv date="20250517105354 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8507,6 +8507,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250517080900 +0800" stop="20250517100400 +0800">
 		<title lang="zh">爱情公寓</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250517100400 +0800" stop="20250517114200 +0800">
+		<title lang="zh">银魂最终篇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250517114200 +0800" stop="20250517133800 +0800">
+		<title lang="zh">左右</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250517133800 +0800" stop="20250517152000 +0800">
+		<title lang="zh">那个不为人知的故事</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250517152000 +0800" stop="20250517172500 +0800">
+		<title lang="zh">余生那些年</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
