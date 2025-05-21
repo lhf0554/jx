@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250521050430 +0800">
+<tv date="20250521110347 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8513,6 +8513,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250521083300 +0800" stop="20250521104000 +0800">
 		<title lang="zh">大红包2：龙凤呈祥</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521104000 +0800" stop="20250521120900 +0800">
+		<title lang="zh">大神猴2伏魔篇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521120900 +0800" stop="20250521134800 +0800">
+		<title lang="zh">幻影爱人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521134800 +0800" stop="20250521153000 +0800">
+		<title lang="zh">天空的遇难船</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250521153000 +0800" stop="20250521171300 +0800">
+		<title lang="zh">幸福的记忆</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
