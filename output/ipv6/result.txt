@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-21 22:13:50,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-05-22 10:17:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -191,6 +191,7 @@ CETV1,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://migu.z529.com/migu/923287154.m3u8?migutoken=def1f23de0aaac86d0cd42f501781d0fd5ac5e2c0a644f0bef88cf81bf664672df8ef3210f5f436784b63deb45679185e8c31b5f4985169d47fb7c5f2a7a52147b9430de517020fd7751def5e7
 CETV1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?
+CETV1,http://sport.pendy.dpdns.org/migu/923287154?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CETV2,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=492
 CETV2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
@@ -198,6 +199,7 @@ CETV2,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 CETV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 CETV2,http://migu.z529.com/migu/923287211.m3u8?migutoken=9b28f59e20931b8065e4ed81e8132964a26de3b73f7ea42f3a5ac36ca10df8699a569941d628666f57cc68bd9c94f0b8a20a5384c5b2a9e47e81cb4f7ad00650ccbeff2627d3ef402d76e13f69
 CETV2,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?
+CETV2,http://sport.pendy.dpdns.org/migu/923287211?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 CETV4,http://fb.chucklee.top:10026/itv/5000000011000031126.m3u8?cdn=bestzb
 CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
@@ -205,6 +207,7 @@ CETV4,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.liv
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://migu.z529.com/migu/923287339.m3u8?migutoken=f8ccb6a1c3a28f5bcc6d926b2568ebb8c11dd8820a1ab9217c2908686a18a7a157b07a28cb28e1fdfd878e196c52559b616c6434295061042a4c0a0c91b5c9ca9716a2ff2c7eb88cf0db72d387
 CETV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?
+CETV4,http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
 💰央视新影,#genre#
 文化精品,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_302?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCO1dXX5lQaafbaysnhe26Dyjczux5g7XU7CGBbNCjn%2BNpTWaL5AGzrNKcas9dXSJCS9EyqZVxmVoVlpMXP0mP3lI9kG3u2E8tybTDTA1E5u7iUwTJRUwrwf4%2Bw0L%2FwOKT3eNyYtJz%2FIA61w5QqGtvKprC45xf2fGT8jfZEHnLOW%2Bd4dVTRX0lJS9GWZyG7yx4H&clientIp=%3A%3Affff%3A31.6.56.132
@@ -738,6 +741,7 @@ CETV4,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/22
 凤凰香港,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 凤凰香港,https://bxtv.587788.xyz/stream/bxtv/null-5/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+凤凰香港,https://gat.tv12.xyz/171.m3u8
 凤凰卫视,http://cdn.132.us.kg/live/fhzw/stream.m3u8
 凤凰卫视,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
@@ -982,6 +986,7 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 魅力足球,http://fb.chucklee.top:10026/itv/5000000011000031207.m3u8?cdn=bestzb
 魅力足球,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281
 魅力足球,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+魅力足球,http://dxjyrz-live.bestvcdn.com.cn/live/program/live/mlyyhd/4000000/mnf.m3u8
 天元围棋,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8?stbid=
 快乐垂钓,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 快乐垂钓,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226670/index.m3u8
