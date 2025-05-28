@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-27 22:10:40,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-05-28 10:17:56,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -711,7 +711,7 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 翡翠台,http://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://v2hcdn.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 翡翠台,http://cdn.061899.xyz/stream/mytv/null/master.m3u8?u=111&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 明珠台,http://go1.bkpcp.top/tl/null-12
 明珠台,http://cdn.061899.xyz/stream/mytv/null-12/master.m3u8?u=111&p=29624e2e4c4ccee26ed8f3e0ca1012ea57a8f2191be6149f632250f7036119cc
