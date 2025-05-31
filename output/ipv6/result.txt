@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-30 22:13:11,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+2025-05-31 10:16:46,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
@@ -225,14 +225,17 @@ CETV4,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 第一剧场,http://tv.scjyhd.com:4022/udp/239.11.0.189:5140
 第一剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_294?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOTxuqxLSFNZkgBfjwTT2eJNsL6ujV7w0TSbD8gwz%2FXTMlMBbQKSIxDQ%2BrU3R3lLGO%2Fh0b5%2FbTEjK0%2B0bLIHIda1PGoEiS1wOW8hxuU2hf9Va%2FirQw2ia9SteADBrWZoopRvN%2BXTj8LjMMFXwABt%2BfvJHUINWVNt8AN6pLK1Z%2FHyjNxKP9OXHSFXvdkjhu24z9&clientIp=%3A%3Affff%3A31.6.56.132
 第一剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+第一剧场,https://nptv.freetv.top/nptv/dyjc.m3u8
 风云剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244807/main.m3u8?stbid=
 风云剧场,http://tv.scjyhd.com:4022/udp/239.10.0.203:5140
 风云剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_295?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOUpuYJb9eYUFLxo%2FC8HSwbGVSlu2MpowLoaXX7MkronGO6uQsnNKlHq7XSeUWXXj3MJlE8PjjXdiquUmYFZkfpWie4KxdME6I8oEjdhmnRgRYuQ%2Fd2EjOr0pZMdtWNOQ%2F0VNPh4KLmAh2V3ZArZj5QD2fUZIJEYxchvJ1lS6tEjI5G%2B2XLCtW%2FjLX2GP0OMQb&clientIp=%3A%3Affff%3A31.6.56.132
 风云剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云剧场,https://nptv.freetv.top/nptv/fyjc.m3u8
 怀旧剧场,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244806/main.m3u8?stbid=
 怀旧剧场,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=224
 怀旧剧场,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_296?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOD4BIVUr9SsW5hQcIeRPMjhdWaph4qmDgWw22jVm3CUOp7A1Ue3fjzBmaw97tK0jde%2F7L70FRej0Q7TPdFyFlJaH3Ll95YQK2CvDWG9J%2Fpv28JLSViMDJFEDDhcmehrKPww97FNzF3BfSyTYEMZA8VPxlttF6rInFnqArW2%2FAvW4Zvyo3%2B2yy9DfF4%2Bl%2FptRz&clientIp=%3A%3Affff%3A31.6.56.132
 怀旧剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+怀旧剧场,https://nptv.freetv.top/nptv/hjjc.m3u8
 女性时尚,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244811/main.m3u8?stbid=
 女性时尚,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=176
 女性时尚,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_301?token=vpIiTLTwb8HrCKL5x6lgvw%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOfTZ6jdBYUwP862a5FtP07xVd7w2VyP96IUl%2B5YmEVE7A5JjicTTjIJhxdzeIiVsTUfwNHg1ZT%2FCOFVc2PnPwxT%2FsCEqhtHFx7qu3%2FjEimKVaIbdnz7XfoBxvJm4PLx%2BTe7tkG%2Fdl%2FHG%2BESEy8MBrk%2Br52f0PmkA5NXfLPlzOWVqKUnjss1km7WYNd6J%2FGKE7&clientIp=%3A%3Affff%3A31.6.56.132
@@ -822,11 +825,15 @@ CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/in
 淘剧场,http://yc.myds.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://nas.suntao.online:35455/bptv/10000100000000050000000003887497.m3u8
 淘剧场,http://dsj.motem.top:8880/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://missyao.com:35455/bptv/10000100000000050000000003887497.m3u8
+淘剧场,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887497.m3u8
 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&amp;accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘娱乐,http://liqunhui.cn:35455/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://yc.myds.me:35455/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://nas.suntao.online:35455/bptv/10000100000000050000000003887499.m3u8
 淘娱乐,http://dsj.motem.top:8880/bptv/10000100000000050000000003887499.m3u8
+淘娱乐,http://missyao.com:35455/bptv/10000100000000050000000003887499.m3u8
+淘娱乐,http://zjzcf.synology.me:35455/bptv/10000100000000050000000003887499.m3u8
 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 淘电影,http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
 淘电影,http://nas.suntao.online:35455/bptv/10000100000000050000000003887498.m3u8
@@ -977,6 +984,10 @@ CCTV-5+,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000018504/1
 睛彩篮球,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8?servicetype=1
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226326/index.m3u8?servicetype=1
+睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
+睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 风云足球,http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244800/main.m3u8?stbid=
 风云足球,http://php.666230.xyz/公众号【睡眼迷离的猫】/proxy/p26.php?id=225
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
