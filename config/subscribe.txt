@@ -11,3 +11,27 @@ https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整�
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+http://go8.myartsonline.com/zx/2/nowtv.txt
+http://tv.cqshushu.ggff.net:2086/jzb.php?公众号【医工学习日志】
+http://php.cqshushu.ggff.net/jzb.php?公众号【医工学习日志】
+http://web9916.w.computerqwq.cf/jzb.php?公众号【医工学习日志】
+https://cccimg.com/down.php/c53d0978167a27d7b3db66e28fe4c3fe.txt
+https://git.acwing.com/xlysyyds/dxl900109/-/raw/c254a4a701861c023e9674d74ab5fb15e88066c8/%E5%B0%8F%E9%BE%99%E7%94%B5%E8%A7%86%E9%85%B79.txt
+http://8.138.7.223/2025.txt
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/refs/heads/main/merged_output.txt
+http://mdxgh.tpddns.cn:9999/new/mdzb.txt
+https://raw.githubusercontent.com/250992941/iptv/refs/heads/main/MY604.txt
+https://raw.gitmirror.com/lhf0554/A/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+https://raw.gitmirror.com/vbskycn/iptv/refs/heads/master/tv/iptv4.txt
+http://rihou.cc:555/gggg.nzk
+https://live.hacks.tools/tv/ipv4/categories/地方频道.txt
+https://live.hacks.tools/tv/ipv4/categories/hong_kong.txt
+https://live.hacks.tools/tv/ipv4/categories/taiwan.txt
+https://live.hacks.tools/tv/ipv4/categories/macau.txt
+https://live.hacks.tools/tv/ipv4/categories/卫视频道.txt
+https://live.hacks.tools/tv/ipv4/categories/央视频道.txt
+https://live.hacks.tools/tv/ipv4/categories/电影频道.txt
+https://live.hacks.tools/iptv/languages/zho.m3u
+https://cloud.7so.top/f/1Q1cq/mjyy.txt
+https://11344.kstore.space/dd.txt
+http://ku9.fr.to/ku9/1745708112.txt
