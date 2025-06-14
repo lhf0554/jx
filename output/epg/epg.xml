@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250614043225 +0800">
+<tv date="20250614102819 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8132,6 +8132,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250614101000 +0800" stop="20250614113700 +0800">
 		<title lang="zh">超时空心跳</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250614113700 +0800" stop="20250614132500 +0800">
+		<title lang="zh">迷宫的十字路口</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250614132500 +0800" stop="20250614144000 +0800">
+		<title lang="zh">鲛人传说之人间情</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250614144000 +0800" stop="20250614161200 +0800">
+		<title lang="zh">时空之旅</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
