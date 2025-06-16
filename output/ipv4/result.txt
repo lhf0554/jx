@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-16 18:31:43,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
+2025-06-16 21:33:05,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -7,12 +7,12 @@ CCTV-1,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV1
 CCTV-2,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV2
 CCTV-2,http://php.cqshushu.ggff.net/jzb.php?id=cctv2&公众号【医工学习日志】
 CCTV-2,http://web9916.w.computerqwq.cf/jzb.php?id=cctv2&公众号【医工学习日志】
-CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV-3,http://web9916.w.computerqwq.cf/jzb.php?id=cctv3&公众号【医工学习日志】
 CCTV-3,http://php.cqshushu.ggff.net/jzb.php?id=cctv3&公众号【医工学习日志】
+CCTV-3,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV3
 CCTV-4,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV4
-CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv4&公众号【医工学习日志】
 CCTV-4,http://web9916.w.computerqwq.cf/jzb.php?id=cctv4&公众号【医工学习日志】
+CCTV-4,http://php.cqshushu.ggff.net/jzb.php?id=cctv4&公众号【医工学习日志】
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-5+,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5p
@@ -21,20 +21,20 @@ CCTV-6,http://php.cqshushu.ggff.net/jzb.php?id=cctv6&公众号【医工学习日
 CCTV-6,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV6
 CCTV-6,http://119.32.12.17:2901/udp/224.1.100.84:11111
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
-CCTV-8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,http://php.cqshushu.ggff.net/jzb.php?id=cctv8&公众号【医工学习日志】
+CCTV-8,http://web9916.w.computerqwq.cf/jzb.php?id=cctv8&公众号【医工学习日志】
 CCTV-8,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV8
 CCTV-9,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV9
-CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
 CCTV-10,http://web9916.w.computerqwq.cf/jzb.php?id=cctv10&公众号【医工学习日志】
+CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】
 CCTV-10,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV10
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】
 CCTV-11,http://web9916.w.computerqwq.cf/jzb.php?id=cctv11&公众号【医工学习日志】
-CCTV-12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12&公众号【医工学习日志】
 CCTV-12,http://php.cqshushu.ggff.net/jzb.php?id=cctv12&公众号【医工学习日志】
+CCTV-12,http://web9916.w.computerqwq.cf/jzb.php?id=cctv12&公众号【医工学习日志】
 CCTV-14,http://web9916.w.computerqwq.cf/jzb.php?id=cctv14&公众号【医工学习日志】
-CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-14,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV14
+CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】
 CCTV-15,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV15
 CCTV-16,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV16
 CCTV-17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17
@@ -98,8 +98,8 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=浙江卫视
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://qwt.zhibotv.top:2016/全网通.php?id=湖南卫视
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
@@ -110,8 +110,8 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 黑龙江卫视,http://web9916.w.computerqwq.cf/jzb.php?id=hljws&公众号【医工学习日志】
 黑龙江卫视,http://php.cqshushu.ggff.net/jzb.php?id=hljws&公众号【医工学习日志】
 黑龙江卫视,http://qwt.zhibotv.top:2016/全网通.php?id=黑龙江卫视
-安徽卫视,http://php.cqshushu.ggff.net/jzb.php?id=ahws&公众号【医工学习日志】
 安徽卫视,http://web9916.w.computerqwq.cf/jzb.php?id=ahws&公众号【医工学习日志】
+安徽卫视,http://php.cqshushu.ggff.net/jzb.php?id=ahws&公众号【医工学习日志】
 安徽卫视,http://qwt.zhibotv.top:2016/全网通.php?id=安徽卫视
 重庆卫视,http://qwt.zhibotv.top:2016/全网通.php?id=重庆卫视
 东方卫视,http://qwt.zhibotv.top:2016/全网通.php?id=东方卫视
@@ -125,22 +125,22 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 河北卫视,http://qwt.zhibotv.top:2016/全网通.php?id=河北卫视
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-吉林卫视,http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
 吉林卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jlws&公众号【医工学习日志】
+吉林卫视,http://php.cqshushu.ggff.net/jzb.php?id=jlws&公众号【医工学习日志】
 吉林卫视,http://qwt.zhibotv.top:2016/全网通.php?id=吉林卫视
 江苏卫视,http://qwt.zhibotv.top:2016/全网通.php?id=江苏卫视
-江苏卫视,http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】
 江苏卫视,http://web9916.w.computerqwq.cf/jzb.php?id=jsws&公众号【医工学习日志】
+江苏卫视,http://php.cqshushu.ggff.net/jzb.php?id=jsws&公众号【医工学习日志】
 辽宁卫视,http://qwt.zhibotv.top:2016/全网通.php?id=辽宁卫视
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山东卫视,http://qwt.zhibotv.top:2016/全网通.php?id=山东卫视
-陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
 陕西卫视,http://web9916.w.computerqwq.cf/jzb.php?id=sxws&公众号【医工学习日志】
+陕西卫视,http://php.cqshushu.ggff.net/jzb.php?id=sxws&公众号【医工学习日志】
 四川卫视,http://web9916.w.computerqwq.cf/jzb.php?id=scws&公众号【医工学习日志】
 四川卫视,http://php.cqshushu.ggff.net/jzb.php?id=scws&公众号【医工学习日志】
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
-深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws&公众号【医工学习日志】
 深圳卫视,http://php.cqshushu.ggff.net/jzb.php?id=szws&公众号【医工学习日志】
+深圳卫视,http://web9916.w.computerqwq.cf/jzb.php?id=szws&公众号【医工学习日志】
 深圳卫视,http://qwt.zhibotv.top:2016/全网通.php?id=深圳卫视
 天津卫视,http://web9916.w.computerqwq.cf/jzb.php?id=tjws&公众号【医工学习日志】
 天津卫视,http://php.cqshushu.ggff.net/jzb.php?id=tjws&公众号【医工学习日志】
@@ -150,7 +150,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 广东珠江,http://live.xmcdn.com/live/252/64.m3u8
 广东新闻,https://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
 江门侨乡生活,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=72626b&tk=822270345d4c
-汕头文旅,http://tv.zzlag.top:9003/hls/5/index.m3u8
 汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0590&tk=a0c4f6cfaba3
 汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5771&tk=a0c4f6cfaba3
 汕头文旅,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=e8fcaf&tk=822270345d4c
@@ -169,9 +168,9 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 凤凰香港,http://bziyunshao.synology.me:8890/bysid/85.m3u8
 中天新闻,http://cdn.iptv8k.top/dl/jspd.php
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;time=20240926215313&amp;ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;amp;time=20240926215313&amp;amp;amp;ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&amp;amp;time=20240926215313&amp;amp;ip=111.229.253.40
 纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
@@ -181,10 +180,11 @@ Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.25
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
-东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?tid=m65c4e525f24617101171&ct=17874&tsum=663db593cfeefc92ce4b5d7461988f3f
+东森综合,http://50.7.234.10:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40
 东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240926215313&ip=111.229.253.40
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240926215313&ip=111.229.253.40#rtmp://f13h.mine.nu/sat/tv331#rtmp://f13h.mine.nu/sat/tv331
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240926215313&ip=111.229.253.40
 东森电影,http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=md2ba4c243ed411481253&ct=17874&tsum=4637ffbc3260e78931b566300e618313
