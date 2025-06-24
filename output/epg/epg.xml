@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250624043533 +0800">
+<tv date="20250624102852 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8384,6 +8384,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250624103500 +0800" stop="20250624120400 +0800">
 		<title lang="zh">龙门镇客栈</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250624120400 +0800" stop="20250624133600 +0800">
+		<title lang="zh">食神</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250624133600 +0800" stop="20250624152100 +0800">
+		<title lang="zh">音乐永不停歇</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250624152100 +0800" stop="20250624171200 +0800">
+		<title lang="zh">长江图</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
