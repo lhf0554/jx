@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250701102947 +0800">
+<tv date="20250701132935 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -2382,10 +2382,10 @@
 	<programme channel="东方卫视" start="20250701032600 +0800" stop="20250701040800 +0800">
 		<title lang="zh">无间（5）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250701040800 +0800" stop="20250701044900 +0800">
+	<programme channel="东方卫视" start="20250701040800 +0800" stop="20250701045000 +0800">
 		<title lang="zh">无间（6）</title>
 	</programme>
-	<programme channel="东方卫视" start="20250701044900 +0800" stop="20250701045300 +0800">
+	<programme channel="东方卫视" start="20250701045000 +0800" stop="20250701045300 +0800">
 		<title lang="zh">＜我的世界你好＞明日精彩看点</title>
 	</programme>
 	<programme channel="东方卫视" start="20250701045300 +0800" stop="20250701053400 +0800">
@@ -2403,10 +2403,10 @@
 	<programme channel="东方卫视" start="20250701070100 +0800" stop="20250701085900 +0800">
 		<title lang="zh">看东方</title>
 	</programme>
-	<programme channel="东方卫视" start="20250701085900 +0800" stop="20250701090200 +0800">
+	<programme channel="东方卫视" start="20250701085900 +0800" stop="20250701090300 +0800">
 		<title lang="zh">天气预报</title>
 	</programme>
-	<programme channel="东方卫视" start="20250701090200 +0800" stop="20250701094400 +0800">
+	<programme channel="东方卫视" start="20250701090300 +0800" stop="20250701094400 +0800">
 		<title lang="zh">少年爱迪生第九季：明日世界（10）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250701094400 +0800" stop="20250701101500 +0800">
@@ -2500,7 +2500,7 @@
 		<title lang="zh">诞生地（2）</title>
 	</programme>
 	<programme channel="东方卫视" start="20250701225900 +0800" stop="20250701235900 +0800">
-		<title lang="zh">梦想改造家精编（3）：抱团养老的家</title>
+		<title lang="zh">梦想改造家精编：花海上空的家</title>
 	</programme>
 	<channel id="云南卫视">
 		<display-name lang="zh">云南卫视</display-name>
@@ -7056,11 +7056,8 @@
 	<programme channel="浙江卫视" start="20250701183000 +0800" stop="20250701185100 +0800">
 		<title lang="zh">（直播）250701浙江新闻联播</title>
 	</programme>
-	<programme channel="浙江卫视" start="20250701185100 +0800" stop="20250701185300 +0800">
+	<programme channel="浙江卫视" start="20250701185100 +0800" stop="20250701190000 +0800">
 		<title lang="zh">（直播）气象</title>
-	</programme>
-	<programme channel="浙江卫视" start="20250701185300 +0800" stop="20250701190000 +0800">
-		<title lang="zh">（直播）今日聚焦</title>
 	</programme>
 	<programme channel="浙江卫视" start="20250701190000 +0800" stop="20250701193000 +0800">
 		<title lang="zh">（直播）转播中央电视台新闻联播</title>
@@ -7959,68 +7956,41 @@
 	<programme channel="甘肃卫视" start="20250701082100 +0800" stop="20250701085300 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701085300 +0800" stop="20250701092200 +0800">
+	<programme channel="甘肃卫视" start="20250701085300 +0800" stop="20250701094900 +0800">
 		<title lang="zh">飞虎神鹰(54)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701092200 +0800" stop="20250701094900 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701094900 +0800" stop="20250701101800 +0800">
+	<programme channel="甘肃卫视" start="20250701094900 +0800" stop="20250701104800 +0800">
 		<title lang="zh">飞虎神鹰(55)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701101800 +0800" stop="20250701104700 +0800">
-		<title lang="zh">生活服务</title>
+	<programme channel="甘肃卫视" start="20250701104800 +0800" stop="20250701113900 +0800">
+		<title lang="zh">雄关剧场:薛平贵与王宝钏(1)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701104700 +0800" stop="20250701111600 +0800">
-		<title lang="zh">薛平贵与王宝钏(1)</title>
+	<programme channel="甘肃卫视" start="20250701113900 +0800" stop="20250701123000 +0800">
+		<title lang="zh">雄关剧场:薛平贵与王宝钏(2)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701111600 +0800" stop="20250701113900 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701113900 +0800" stop="20250701120800 +0800">
-		<title lang="zh">薛平贵与王宝钏(2)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701120800 +0800" stop="20250701123000 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701123000 +0800" stop="20250701125000 +0800">
+	<programme channel="甘肃卫视" start="20250701123000 +0800" stop="20250701125100 +0800">
 		<title lang="zh">午间20分</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701125000 +0800" stop="20250701130000 +0800">
+	<programme channel="甘肃卫视" start="20250701125100 +0800" stop="20250701130000 +0800">
 		<title lang="zh">劳模纪录工程:卢继承</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250701130000 +0800" stop="20250701130900 +0800">
 		<title lang="zh">午间天气预报</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701130900 +0800" stop="20250701133700 +0800">
-		<title lang="zh">炮神(53)</title>
+	<programme channel="甘肃卫视" start="20250701130900 +0800" stop="20250701135900 +0800">
+		<title lang="zh">花雨剧场:炮神(53)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701133700 +0800" stop="20250701135900 +0800">
-		<title lang="zh">生活服务</title>
+	<programme channel="甘肃卫视" start="20250701135900 +0800" stop="20250701145600 +0800">
+		<title lang="zh">花雨剧场:炮神(54)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701135900 +0800" stop="20250701142700 +0800">
-		<title lang="zh">炮神(54)</title>
+	<programme channel="甘肃卫视" start="20250701145600 +0800" stop="20250701154700 +0800">
+		<title lang="zh">花雨剧场:炮神(55)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701142700 +0800" stop="20250701145600 +0800">
-		<title lang="zh">生活服务</title>
+	<programme channel="甘肃卫视" start="20250701154700 +0800" stop="20250701163600 +0800">
+		<title lang="zh">花雨剧场:炮神(56)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20250701145600 +0800" stop="20250701152400 +0800">
-		<title lang="zh">炮神(55)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701152400 +0800" stop="20250701154600 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701154600 +0800" stop="20250701161300 +0800">
-		<title lang="zh">炮神(56)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701161300 +0800" stop="20250701163600 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701163600 +0800" stop="20250701170400 +0800">
-		<title lang="zh">炮神(57)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20250701170400 +0800" stop="20250701173500 +0800">
-		<title lang="zh">生活服务</title>
+	<programme channel="甘肃卫视" start="20250701163600 +0800" stop="20250701173500 +0800">
+		<title lang="zh">花雨剧场:炮神(57)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250701173500 +0800" stop="20250701181000 +0800">
 		<title lang="zh">棉花糖和云朵妈妈</title>
@@ -8038,10 +8008,10 @@
 		<title lang="zh">转播中央台新闻联播</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250701193300 +0800" stop="20250701202300 +0800">
-		<title lang="zh">上甘岭(15)</title>
+		<title lang="zh">黄金剧场:上甘岭(15)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250701202300 +0800" stop="20250701211000 +0800">
-		<title lang="zh">上甘岭(16)</title>
+		<title lang="zh">黄金剧场:上甘岭(16)</title>
 	</programme>
 	<programme channel="甘肃卫视" start="20250701211000 +0800" stop="20250701213000 +0800">
 		<title lang="zh">劳模纪录工程</title>
@@ -10175,6 +10145,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250701171800 +0800" stop="20250701185000 +0800">
 		<title lang="zh">小巷管家</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250701185000 +0800" stop="20250701200200 +0800">
+		<title lang="zh">西游记比丘国</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
