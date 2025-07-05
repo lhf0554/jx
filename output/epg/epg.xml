@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250705043002 +0800">
+<tv date="20250705102517 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10136,6 +10136,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250705111900 +0800" stop="20250705121900 +0800">
 		<title lang="zh">超凡追击者</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250705121900 +0800" stop="20250705141300 +0800">
+		<title lang="zh">人生开门红</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250705141300 +0800" stop="20250705154600 +0800">
+		<title lang="zh">女汉子真爱公式</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250705154600 +0800" stop="20250705175000 +0800">
+		<title lang="zh">暮光之城3：月食</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
