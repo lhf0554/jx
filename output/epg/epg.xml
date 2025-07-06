@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250706043637 +0800">
+<tv date="20250706102608 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10095,6 +10095,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250706103200 +0800" stop="20250706122400 +0800">
 		<title lang="zh">名侦探柯南：唐红的恋歌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250706122400 +0800" stop="20250706135000 +0800">
+		<title lang="zh">镜花缘之决战女儿国</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250706135000 +0800" stop="20250706151800 +0800">
+		<title lang="zh">我的锦鲤男友</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250706151800 +0800" stop="20250706163300 +0800">
+		<title lang="zh">重装机甲</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
