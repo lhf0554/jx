@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250710043619 +0800">
+<tv date="20250710102940 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10559,6 +10559,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250710110100 +0800" stop="20250710122500 +0800">
 		<title lang="zh">重案行动之捣毒任务</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250710122500 +0800" stop="20250710142600 +0800">
+		<title lang="zh">非凡任务</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250710142600 +0800" stop="20250710162700 +0800">
+		<title lang="zh">逆行人生</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
