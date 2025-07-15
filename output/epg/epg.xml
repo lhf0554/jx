@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250715044328 +0800">
+<tv date="20250715103013 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10448,6 +10448,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250715115500 +0800" stop="20250715134000 +0800">
 		<title lang="zh">追凶十九年</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250715134000 +0800" stop="20250715150100 +0800">
+		<title lang="zh">锦衣之下之血滴子</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250715150100 +0800" stop="20250715164800 +0800">
+		<title lang="zh">喊b7山</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
