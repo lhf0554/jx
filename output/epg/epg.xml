@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250805045428 +0800">
+<tv date="20250805103027 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10679,6 +10679,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250805121400 +0800" stop="20250805133400 +0800">
 		<title lang="zh">七剑降魔传</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250805133400 +0800" stop="20250805150000 +0800">
+		<title lang="zh">另类民兵葛二蛋</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250805150000 +0800" stop="20250805162900 +0800">
+		<title lang="zh">古剑奇谭之伏魔纪</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
