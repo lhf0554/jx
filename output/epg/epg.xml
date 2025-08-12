@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250812043142 +0800">
+<tv date="20250812102909 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10662,6 +10662,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250812104100 +0800" stop="20250812120600 +0800">
 		<title lang="zh">神探徐有功</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250812120600 +0800" stop="20250812140100 +0800">
+		<title lang="zh">战栗的乐谱</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250812140100 +0800" stop="20250812153900 +0800">
+		<title lang="zh">火线追凶2之致命线人</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250812153900 +0800" stop="20250812165100 +0800">
+		<title lang="zh">杨戬传</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
