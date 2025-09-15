@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250915042818 +0800">
+<tv date="20250915102647 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10619,6 +10619,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250915101500 +0800" stop="20250915114700 +0800">
 		<title lang="zh">火影忍者疾风传：羁绊</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250915114700 +0800" stop="20250915132500 +0800">
+		<title lang="zh">梦想边缘</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250915132500 +0800" stop="20250915151600 +0800">
+		<title lang="zh">血战湘江</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250915151600 +0800" stop="20250915171600 +0800">
+		<title lang="zh">快一秒的他</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
