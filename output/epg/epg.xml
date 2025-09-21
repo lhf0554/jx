@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250921042655 +0800">
+<tv date="20250921102249 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8712,6 +8712,51 @@
 	<programme channel="精品体育" start="20250921232000 +0800" stop="20250921235900 +0800">
 		<title lang="zh">尼克斯VS步行者</title>
 	</programme>
+	<channel id="经典电影">
+		<display-name lang="zh">经典电影</display-name>
+	</channel>
+	<programme channel="经典电影" start="20250921000000 +0800" stop="20250921000200 +0800">
+		<title lang="zh">侏罗纪世界</title>
+	</programme>
+	<programme channel="经典电影" start="20250921000200 +0800" stop="20250921015800 +0800">
+		<title lang="zh">天地大冲撞</title>
+	</programme>
+	<programme channel="经典电影" start="20250921015800 +0800" stop="20250921040000 +0800">
+		<title lang="zh">侏罗纪世界</title>
+	</programme>
+	<programme channel="经典电影" start="20250921040000 +0800" stop="20250921055000 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921055000 +0800" stop="20250921074800 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921074800 +0800" stop="20250921093800 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921093800 +0800" stop="20250921113700 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921113700 +0800" stop="20250921132700 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921132700 +0800" stop="20250921152500 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921152500 +0800" stop="20250921171500 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921171500 +0800" stop="20250921191400 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921191400 +0800" stop="20250921210400 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
+	<programme channel="经典电影" start="20250921210400 +0800" stop="20250921230200 +0800">
+		<title lang="zh">重振球风</title>
+	</programme>
+	<programme channel="经典电影" start="20250921230200 +0800" stop="20250921235900 +0800">
+		<title lang="zh">禁止的真相</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -10361,6 +10406,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250921083200 +0800" stop="20250921102600 +0800">
 		<title lang="zh">幻体续命游戏</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250921102600 +0800" stop="20250921123200 +0800">
+		<title lang="zh">大画王</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250921123200 +0800" stop="20250921142000 +0800">
+		<title lang="zh">银翼的魔术师</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250921142000 +0800" stop="20250921160500 +0800">
+		<title lang="zh">复身犯</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
