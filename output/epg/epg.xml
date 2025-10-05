@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251005042552 +0800">
+<tv date="20251005102310 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8346,6 +8346,12 @@
 	<programme channel="黑莓电影" start="20251005100100 +0800" stop="20251005115500 +0800">
 		<title lang="zh">亲爱的新年好</title>
 	</programme>
+	<programme channel="黑莓电影" start="20251005115500 +0800" stop="20251005142500 +0800">
+		<title lang="zh">变形金刚5：最后的骑士</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251005142500 +0800" stop="20251005160500 +0800">
+		<title lang="zh">通往天国的倒计时</title>
+	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
 	</channel>
@@ -8448,7 +8454,4 @@
 	<programme channel="黑龙江卫视" start="20251005233600 +0800" stop="20251005235900 +0800">
 		<title lang="zh">活力剧场:追风行动</title>
 	</programme>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
-	</channel>
 </tv>
