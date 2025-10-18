@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251018042502 +0800">
+<tv date="20251018102444 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -10466,6 +10466,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251018092400 +0800" stop="20251018105600 +0800">
 		<title lang="zh">地瓜味的冰激凌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251018105600 +0800" stop="20251018123400 +0800">
+		<title lang="zh">全职高手之巅峰荣耀</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251018123400 +0800" stop="20251018144600 +0800">
+		<title lang="zh">星际迷航：暗黑无界</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251018144600 +0800" stop="20251018161400 +0800">
+		<title lang="zh">憨豆特工3</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
