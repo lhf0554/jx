@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251022042807 +0800">
+<tv date="20251022102913 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -1967,6 +1967,66 @@
 	</programme>
 	<programme channel="CHC高清电影" start="20251022220000 +0800" stop="20251022233800 +0800">
 		<title lang="zh">与我跳舞</title>
+	</programme>
+	<channel id="TVBS新闻">
+		<display-name lang="zh">TVBS新闻</display-name>
+	</channel>
+	<programme channel="TVBS新闻" start="20251022000000 +0800" stop="20251022010000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022010000 +0800" stop="20251022020000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022020000 +0800" stop="20251022040000 +0800">
+		<title lang="zh">新闻夜视界</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022040000 +0800" stop="20251022050000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022050000 +0800" stop="20251022060000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022060000 +0800" stop="20251022090000 +0800">
+		<title lang="zh">早安台湾</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022090000 +0800" stop="20251022100000 +0800">
+		<title lang="zh">上午9点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022100000 +0800" stop="20251022110000 +0800">
+		<title lang="zh">上午10点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022110000 +0800" stop="20251022120000 +0800">
+		<title lang="zh">上午11点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022120000 +0800" stop="20251022140000 +0800">
+		<title lang="zh">午间1213新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022140000 +0800" stop="20251022150000 +0800">
+		<title lang="zh">说新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022150000 +0800" stop="20251022160000 +0800">
+		<title lang="zh">1500整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022160000 +0800" stop="20251022170000 +0800">
+		<title lang="zh">16整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022170000 +0800" stop="20251022180000 +0800">
+		<title lang="zh">17整点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022180000 +0800" stop="20251022200000 +0800">
+		<title lang="zh">晚间67点新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022200000 +0800" stop="20251022210000 +0800">
+		<title lang="zh">最前线新闻</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022210000 +0800" stop="20251022220000 +0800">
+		<title lang="zh">九点热话题</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022220000 +0800" stop="20251022230000 +0800">
+		<title lang="zh">十点不一样</title>
+	</programme>
+	<programme channel="TVBS新闻" start="20251022230000 +0800" stop="20251022235900 +0800">
+		<title lang="zh">新闻夜视界</title>
 	</programme>
 	<channel id="三沙卫视">
 		<display-name lang="zh">三沙卫视</display-name>
@@ -10652,6 +10712,18 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251022085400 +0800" stop="20251022102200 +0800">
 		<title lang="zh">西游降魔篇之快活城</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251022102200 +0800" stop="20251022113300 +0800">
+		<title lang="zh">逆时救援</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251022113300 +0800" stop="20251022134000 +0800">
+		<title lang="zh">大画王</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251022134000 +0800" stop="20251022150500 +0800">
+		<title lang="zh">探清水河：重生</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251022150500 +0800" stop="20251022165800 +0800">
+		<title lang="zh">武动乾坤：涅槃神石</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
