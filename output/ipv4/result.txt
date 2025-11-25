@@ -1,10 +1,28 @@
 🕘️更新时间,#genre#
-2025-11-24 21:28:13,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+2025-11-25 08:51:30,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
 
 📺央视频道,#genre#
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CCTV-1,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
+CCTV-2,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+CCTV-3,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
+CCTV-4,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
+CCTV-5,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+CCTV-5+,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
+CCTV-6,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
+CCTV-7,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
+CCTV-8,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
+CCTV-9,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
+CCTV-10,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
+CCTV-11,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
+CCTV-12,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
+CCTV-13,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV-14,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
+CCTV-15,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
+CCTV-16,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
+CCTV-17,http://124.238.251.36:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
@@ -41,6 +59,5 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
-星空卫视,http://122.53.222.9:9981/stream/channelid/2084767267
 
 🏀体育频道,#genre#
