@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251126102920 +0800">
+<tv date="20251126133236 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -5628,11 +5628,8 @@
 	<programme channel="广西卫视" start="20251126162000 +0800" stop="20251126171000 +0800">
 		<title lang="zh">经典剧场24集：血战松毛岭(24)完</title>
 	</programme>
-	<programme channel="广西卫视" start="20251126171000 +0800" stop="20251126175000 +0800">
+	<programme channel="广西卫视" start="20251126171000 +0800" stop="20251126180000 +0800">
 		<title lang="zh">经典剧场30集：特战先锋(1)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251126175000 +0800" stop="20251126180000 +0800">
-		<title lang="zh">重播：国宝时刻(25)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251126180000 +0800" stop="20251126183000 +0800">
 		<title lang="zh">首播：海丝路</title>
@@ -10682,6 +10679,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251126165700 +0800" stop="20251126183200 +0800">
 		<title lang="zh">见习排爆手</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251126183200 +0800" stop="20251126200500 +0800">
+		<title lang="zh">洛克海特的遗物</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
