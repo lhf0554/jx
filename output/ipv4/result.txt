@@ -1,10 +1,27 @@
 🕘️更新时间,#genre#
-2025-12-07 12:36:23,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+2025-12-07 18:25:31,http://rihou.cc:555/tv/[mg]CCTV-01
 
 📺央视频道,#genre#
+CCTV-1,http://rihou.cc:555/tv/[mg]CCTV-01
+CCTV-2,http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV-3,http://rihou.cc:555/tv/[mg]CCTV-03
+CCTV-4,http://rihou.cc:555/tv/[mg]CCTV-04
+CCTV-5,http://rihou.cc:555/tv/[mg]CCTV-05
+CCTV-6,http://rihou.cc:555/tv/[mg]CCTV-06
+CCTV-7,http://rihou.cc:555/tv/[mg]CCTV-07
+CCTV-8,http://rihou.cc:555/tv/[mg]CCTV-08
+CCTV-9,http://rihou.cc:555/tv/[mg]CCTV-09
+CCTV-10,http://rihou.cc:555/tv/[mg]CCTV-10
+CCTV-11,http://rihou.cc:555/tv/[mg]CCTV-11
+CCTV-12,http://rihou.cc:555/tv/[mg]CCTV-12
+CCTV-13,http://rihou.cc:555/tv/[mg]CCTV-13
+CCTV-14,http://rihou.cc:555/tv/[mg]CCTV-14
+CCTV-15,http://rihou.cc:555/tv/[mg]CCTV-15
+CCTV-16,http://rihou.cc:555/tv/[mg]CCTV-16
+CCTV-17,http://rihou.cc:555/tv/[mg]CCTV-17
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
