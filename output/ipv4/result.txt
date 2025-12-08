@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2025-12-08 08:55:40,http://rihou.cc:555/tv/[mg]CCTV-01
+2025-12-08 12:37:43,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-1,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
-CCTV-2,http://rihou.cc:555/tv/[mg]CCTV-02
+CCTV-1,http://rihou.cc:555/tv/[mg]CCTV-01
 CCTV-2,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
+CCTV-2,http://rihou.cc:555/tv/[mg]CCTV-02
 CCTV-3,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
 CCTV-4,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-CCTV-5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV-5,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
+CCTV-5,http://rihou.cc:555/tv/[mg]CCTV-05
 CCTV-5+,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
 CCTV-6,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
 CCTV-7,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
@@ -20,8 +20,8 @@ CCTV-10,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10
 CCTV-11,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
 CCTV-11,http://rihou.cc:555/tv/[mg]CCTV-11
 CCTV-12,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
-CCTV-13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV-13,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
+CCTV-13,http://rihou.cc:555/tv/[mg]CCTV-13
 CCTV-14,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
 CCTV-14,http://rihou.cc:555/tv/[mg]CCTV-14
 CCTV-15,http://114.236.92.138:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
