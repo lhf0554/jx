@@ -1,17 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-09 21:31:01,http://play.kankanlive.com/live/1698234869325962.m3u8
+2025-12-10 08:55:49,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 
 📺央视频道,#genre#
-CCTV-1,http://play.kankanlive.com/live/1698234869325962.m3u8
-CCTV-2,https://play.kankanlive.com/live/1698234898628961.m3u8
-CCTV-4,https://play.kankanlive.com/live/1698234936258960.m3u8
-CCTV-10,https://play.kankanlive.com/live/1698423445959919.m3u8
-CCTV-11,https://play.kankanlive.com/live/1698423476198918.m3u8
-CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8
-CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8
-CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8
-CCTV-17,https://play.kankanlive.com/live/1698423272597921.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
@@ -52,5 +42,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 
 🎬电影频道,#genre#
+天映经典,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=4921
+东森洋片,http://fbd48279.ott.oxtvs.com/ott/?q=9222549520c295e029ec6ff9d9f66695&id=5454
 
 🏀体育频道,#genre#
