@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251215103313 +0800">
+<tv date="20251215133515 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -4896,17 +4896,11 @@
 	<programme channel="广西卫视" start="20251215062000 +0800" stop="20251215063000 +0800">
 		<title lang="zh">首播：壮语新闻</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215063000 +0800" stop="20251215065400 +0800">
+	<programme channel="广西卫视" start="20251215063000 +0800" stop="20251215070000 +0800">
 		<title lang="zh">重播：凡事说理</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215065400 +0800" stop="20251215070000 +0800">
-		<title lang="zh">公益广告（1）</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215070000 +0800" stop="20251215070100 +0800">
+	<programme channel="广西卫视" start="20251215070000 +0800" stop="20251215070300 +0800">
 		<title lang="zh">中华人民共和国国歌</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215070100 +0800" stop="20251215070300 +0800">
-		<title lang="zh">公益广告（2）</title>
 	</programme>
 	<programme channel="广西卫视" start="20251215070300 +0800" stop="20251215072700 +0800">
 		<title lang="zh">重播：广西新闻</title>
@@ -4926,86 +4920,41 @@
 	<programme channel="广西卫视" start="20251215084000 +0800" stop="20251215105000 +0800">
 		<title lang="zh">重温经典电影《铁道游击队》</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215105000 +0800" stop="20251215121000 +0800">
+	<programme channel="广西卫视" start="20251215105000 +0800" stop="20251215123000 +0800">
 		<title lang="zh">重温经典电影精选《三进山城》</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215121000 +0800" stop="20251215123000 +0800">
-		<title lang="zh">公益广告(5)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251215123000 +0800" stop="20251215133000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(5)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215133000 +0800" stop="20251215141000 +0800">
+	<programme channel="广西卫视" start="20251215133000 +0800" stop="20251215143000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(6)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215141000 +0800" stop="20251215143000 +0800">
-		<title lang="zh">(经典剧场3特播1)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215143000 +0800" stop="20251215152000 +0800">
+	<programme channel="广西卫视" start="20251215143000 +0800" stop="20251215153000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(7)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215152000 +0800" stop="20251215153000 +0800">
-		<title lang="zh">(经典剧场4特播1)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215153000 +0800" stop="20251215161000 +0800">
+	<programme channel="广西卫视" start="20251215153000 +0800" stop="20251215162000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(8)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215161000 +0800" stop="20251215161000 +0800">
-		<title lang="zh">(经典剧场4特播2)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215161000 +0800" stop="20251215162000 +0800">
-		<title lang="zh">(经典剧场5特播1)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215162000 +0800" stop="20251215170000 +0800">
+	<programme channel="广西卫视" start="20251215162000 +0800" stop="20251215171000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(9)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215170000 +0800" stop="20251215171000 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215171000 +0800" stop="20251215175500 +0800">
+	<programme channel="广西卫视" start="20251215171000 +0800" stop="20251215180000 +0800">
 		<title lang="zh">经典剧场46集：苍狼(10)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215175500 +0800" stop="20251215180000 +0800">
-		<title lang="zh">(海丝路前)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215180000 +0800" stop="20251215182600 +0800">
+	<programme channel="广西卫视" start="20251215180000 +0800" stop="20251215183000 +0800">
 		<title lang="zh">首播：海丝路</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215182600 +0800" stop="20251215182600 +0800">
-		<title lang="zh">宣传片</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215182600 +0800" stop="20251215182600 +0800">
-		<title lang="zh">(海丝路插播)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215182600 +0800" stop="20251215183000 +0800">
-		<title lang="zh">(广西新闻前 4)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215183000 +0800" stop="20251215185400 +0800">
+	<programme channel="广西卫视" start="20251215183000 +0800" stop="20251215185800 +0800">
 		<title lang="zh">直播：广西新闻</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215185400 +0800" stop="20251215185800 +0800">
-		<title lang="zh">(广西天气预报前)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251215185800 +0800" stop="20251215190000 +0800">
 		<title lang="zh">广西天气预报</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215190000 +0800" stop="20251215193000 +0800">
+	<programme channel="广西卫视" start="20251215190000 +0800" stop="20251215193500 +0800">
 		<title lang="zh">转播：新闻联播</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215193000 +0800" stop="20251215193200 +0800">
-		<title lang="zh">(新闻联播后)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215193200 +0800" stop="20251215193500 +0800">
-		<title lang="zh">(美美丽剧场1特播)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251215193500 +0800" stop="20251215201500 +0800">
 		<title lang="zh">美丽剧场32集：阵地(5)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215201500 +0800" stop="20251215201500 +0800">
-		<title lang="zh">(美美丽剧场2特播1)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215201500 +0800" stop="20251215201500 +0800">
-		<title lang="zh">(美美丽剧场1特播3)</title>
 	</programme>
 	<programme channel="广西卫视" start="20251215201500 +0800" stop="20251215205000 +0800">
 		<title lang="zh">广西海洋天气预报</title>
@@ -5019,17 +4968,11 @@
 	<programme channel="广西卫视" start="20251215214500 +0800" stop="20251215223000 +0800">
 		<title lang="zh">首播：遇见好书</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215223000 +0800" stop="20251215231000 +0800">
+	<programme channel="广西卫视" start="20251215223000 +0800" stop="20251215233000 +0800">
 		<title lang="zh">传奇剧场49集：大决战(34)</title>
 	</programme>
-	<programme channel="广西卫视" start="20251215231000 +0800" stop="20251215233000 +0800">
-		<title lang="zh">(晚间合作节目二)</title>
-	</programme>
-	<programme channel="广西卫视" start="20251215233000 +0800" stop="20251215233000 +0800">
-		<title lang="zh">传奇剧场49集：大决战(35)</title>
-	</programme>
 	<programme channel="广西卫视" start="20251215233000 +0800" stop="20251215235900 +0800">
-		<title lang="zh">(传奇剧场 2特播1)</title>
+		<title lang="zh">传奇剧场49集：大决战(35)</title>
 	</programme>
 	<channel id="快乐垂钓">
 		<display-name lang="zh">快乐垂钓</display-name>
@@ -6912,101 +6855,8 @@
 	<programme channel="甘肃卫视" start="20251215103900 +0800" stop="20251215113000 +0800">
 		<title lang="zh">孤岛飞鹰(7)</title>
 	</programme>
-	<programme channel="甘肃卫视" start="20251215113000 +0800" stop="20251215121800 +0800">
+	<programme channel="甘肃卫视" start="20251215113000 +0800" stop="20251215235900 +0800">
 		<title lang="zh">孤岛飞鹰(8)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215121800 +0800" stop="20251215123000 +0800">
-		<title lang="zh">甘肃新交通</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215123000 +0800" stop="20251215125000 +0800">
-		<title lang="zh">午间20分</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215125000 +0800" stop="20251215130000 +0800">
-		<title lang="zh">劳模纪录工程:秦为涛</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215130000 +0800" stop="20251215130500 +0800">
-		<title lang="zh">午间天气预报</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215130500 +0800" stop="20251215131600 +0800">
-		<title lang="zh">国宝时刻:汝窑天蓝釉刻花鹅颈瓶</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215131600 +0800" stop="20251215134300 +0800">
-		<title lang="zh">津门飞鹰(42)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215134300 +0800" stop="20251215140500 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215140500 +0800" stop="20251215143200 +0800">
-		<title lang="zh">津门飞鹰(43)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215143200 +0800" stop="20251215145800 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215145800 +0800" stop="20251215152500 +0800">
-		<title lang="zh">津门飞鹰(44)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215152500 +0800" stop="20251215154800 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215154800 +0800" stop="20251215161500 +0800">
-		<title lang="zh">津门飞鹰(45)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215161500 +0800" stop="20251215163700 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215163700 +0800" stop="20251215170400 +0800">
-		<title lang="zh">津门飞鹰(46)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215170400 +0800" stop="20251215173500 +0800">
-		<title lang="zh">生活服务</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215173500 +0800" stop="20251215181000 +0800">
-		<title lang="zh">大山里的梦之队(1)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215181000 +0800" stop="20251215183000 +0800">
-		<title lang="zh">今日聚焦</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215183000 +0800" stop="20251215185500 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215185500 +0800" stop="20251215190000 +0800">
-		<title lang="zh">晚间天气预报</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215190000 +0800" stop="20251215193200 +0800">
-		<title lang="zh">转播中央台新闻联播</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215193200 +0800" stop="20251215202900 +0800">
-		<title lang="zh">哈尔滨1944(17)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215202900 +0800" stop="20251215211500 +0800">
-		<title lang="zh">哈尔滨1944(18)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215211500 +0800" stop="20251215212400 +0800">
-		<title lang="zh">劳模纪录工程</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215212400 +0800" stop="20251215213000 +0800">
-		<title lang="zh">国宝时刻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215213000 +0800" stop="20251215220000 +0800">
-		<title lang="zh">法治伴你行</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215220000 +0800" stop="20251215222000 +0800">
-		<title lang="zh">新闻晚高峰</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215222000 +0800" stop="20251215223000 +0800">
-		<title lang="zh">护航警官</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215223000 +0800" stop="20251215225400 +0800">
-		<title lang="zh">甘肃新闻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215225400 +0800" stop="20251215230000 +0800">
-		<title lang="zh">国宝时刻</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215230000 +0800" stop="20251215233000 +0800">
-		<title lang="zh">纪录30分:百年巨匠-吴昌硕(下)</title>
-	</programme>
-	<programme channel="甘肃卫视" start="20251215233000 +0800" stop="20251215235900 +0800">
-		<title lang="zh">大漠枪神(5)</title>
 	</programme>
 	<channel id="电视指南">
 		<display-name lang="zh">电视指南</display-name>
@@ -8978,6 +8828,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20251215165100 +0800" stop="20251215185600 +0800">
 		<title lang="zh">热烈</title>
+	</programme>
+	<programme channel="黑莓电影" start="20251215185600 +0800" stop="20251215210500 +0800">
+		<title lang="zh">惊天魔盗团2</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
