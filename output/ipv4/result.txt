@@ -1,11 +1,11 @@
 🕘️更新时间,#genre#
-2026-01-02 08:58:09,http://27.41.245.32:801/hls/10/index.m3u8
+2026-01-02 12:44:43,http://27.41.245.32:801/hls/10/index.m3u8
 
 📺央视频道,#genre#
 CCTV-10,http://27.41.245.32:801/hls/10/index.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
@@ -31,18 +31,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
-湖南卫视,http://39.152.103.17:8089/tsfile/live/1040_1.m3u8
-湖北卫视,http://222.214.208.34:59901/tsfile/live/0132_1.m3u8
-重庆卫视,http://btjg.net:809/hls/54/index.m3u8
-贵州卫视,http://39.152.103.17:8089/tsfile/live/1041_1.m3u8
 河北卫视,http://39.152.103.17:8089/tsfile/live/1079_1.m3u8
-河北卫视,http://btjg.net:809/hls/45/index.m3u8
-河南卫视,http://btjg.net:809/hls/55/index.m3u8
-江苏卫视,http://39.152.103.17:8089/tsfile/live/1038_1.m3u8
-江西卫视,http://222.214.208.34:59901/tsfile/live/0138_1.m3u8
-江西卫视,http://39.152.103.17:8089/tsfile/live/1078_1.m3u8
-辽宁卫视,http://39.152.103.17:8089/tsfile/live/1024_1.m3u8
-深圳卫视,http://39.152.103.17:8089/tsfile/live/1049_1.m3u8
 
 ☘️广东频道,#genre#
 
