@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-03 08:54:20,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-01-03 12:36:38,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -733,7 +733,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 湖南电影,https://stream1.freetv.fun/hu-nan-dian-ying-2.m3u8
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-6.ctv
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-4.m3u8
 湖南教育,https://stream1.freetv.fun/hu-nan-jiao-yu-5.m3u8
@@ -787,11 +786,11 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 翡翠台,https://stream1.freetv.fun/fei-cui-1.m3u8
 翡翠台,https://stream1.freetv.fun/fei-cui-10.m3u8
 翡翠台,https://cdn3.163189.xyz/live/fct/stream.m3u8
+翡翠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
 翡翠台,https://cdn5.1678520.xyz/live/live2.1.php?id=j1
 翡翠台,https://cdn.163189.xyz/live/fct4k/stream.m3u8
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,https://stream1.freetv.fun/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php
 凤凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -804,6 +803,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-8.m3u8
 凤凰中文,https://stream1.freetv.fun/feng-huang-zhong-wen-18.ctv
 凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
 凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
@@ -812,7 +812,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-10.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-12.ctv
 凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-15.m3u8
-凤凰资讯,https://stream1.freetv.fun/feng-huang-zi-xun-2.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
@@ -835,6 +834,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 中天新闻,https://hls-gateway.vpstv.net/streams/477695.m3u8
 中天新闻,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
+中天新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=4gtv-4gtv009
 中视新闻,http://live.iill.top/youtube/@twctvnews/live
 中视新闻,http://sg6.jdiptv.cc/live/ctvxw.m3u8
 中视新闻,https://tv.iill.top/litv/4gtv-4gtv074
@@ -847,6 +847,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=04374bdde2e42237981
 寰宇新闻,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
 寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 寰宇新闻,https://tmxk.pp.ua/litv.php?token=tmxk&id=litv-longturn14
+寰宇新闻,https://edgeone.passwdword.xyz/ofiii.php?token=passwd&id=litv-longturn14
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
 TVBS新闻,https://tv.iill.top/litv/4gtv-4gtv072
 TVBS新闻,https://live.tvfix.org/live/tvbsnews/index.m3u8
@@ -898,6 +899,7 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新闻,http://live.iill.top/youtube/@setnews/live
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
@@ -1018,18 +1020,22 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,http://php.666230.xyz/smt.php?id=videolandmovie
+纬来电影,https://smt.858.qzz.io/Smart.php?id=videolandmovie
+纬来电影,https://smt.go-iptv.ggff.net/smart.php?id=videolandmovie&token=Goiptv
 靖天映画,https://tv.iill.top/litv/4gtv-4gtv055
 靖天映画,https://hls-gateway.vpstv.net/streams/476302.m3u8
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
 靖天映画,https://mao.ffmking888.dpdns.org/
 靖天映画,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv055
-靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,http://serv00.bkpcp.top/litv3.php?id=4gtv-4gtv058
 靖天戏剧,https://tv.iill.top/litv/4gtv-4gtv058
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir
 靖天戏剧,https://mao.ffmking888.dpdns.org/
 靖天戏剧,https://tmxk.pp.ua/litv.php?token=tmxk&id=4gtv-4gtv058
+靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
+靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 经典电影,http://goo.bkpcp.top/mg/jdxgdy
 经典电影,https://tv.iill.top/4gtv/201
 经典电影,https://stream1.freetv.fun/jing-dian-dian-ying-2.ctv
@@ -1057,6 +1063,7 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 无线星河,https://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
 无线星河,https://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 无线星河,https://cdn9.163189.xyz/smt3.1.1.php?id=Xinhe
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-4.ctv
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-14.m3u8
 星空卫视,https://stream1.freetv.fun/xing-kong-wei-shi-11.m3u8
@@ -1073,11 +1080,15 @@ NewTV动作电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/46000008
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-1.m3u8
 东森电影,https://stream1.freetv.fun/dong-sen-dian-ying-8.m3u8
 龙祥电影,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smt.858.qzz.io/Smart.php?id=lungxiangtime_twn
+龙祥电影,https://smt.go-iptv.ggff.net/smart.php?id=lungxiangtime_twn&token=Goiptv
 东森洋片,https://hls-gateway.vpstv.net/streams/476997.m3u8
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4.m3u8
 东森洋片,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
 东森洋片,http://free.cnlive.club/channel/7cb8b9f4/index.m3u8
 东森洋片,http://php.666230.xyz/smt.php?id=ettvwestern
+东森洋片,https://smt.858.qzz.io/Smart.php?id=ettvwestern
+东森洋片,https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-7.ctv
 东森超视,https://stream1.freetv.fun/dong-sen-chao-shi-8.m3u8
