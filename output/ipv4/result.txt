@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-01-03 21:24:05,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+2026-01-04 09:04:29,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 
 📺央视频道,#genre#
+CCTV-6,http://218.17.33.178:53290/tsfile/live/1006_1.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
@@ -30,6 +31,7 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 兵器科技,rtsp://115.153.222.112:554/PLTV/88888888/224/3221227004/86132185.smil
 
 📡卫视频道,#genre#
+山西卫视,http://shuangyashan.coccc.online:65000/tsfile/live/0118_1.m3u8
 
 ☘️广东频道,#genre#
 
