@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2026-01-13 08:53:23,http://23.237.228.134/live5/CCTV3.m3u8
+2026-01-13 12:43:49,http://23.237.228.134/live5/CCTV3.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5,http://23.237.228.134/live5/CCTV5.m3u8
+CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8
-CCTV-8,http://218.17.33.178:53290/tsfile/live/1008_1.m3u8
 CCTV-9,http://btjg.net:809/hls/9/index.m3u8
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
@@ -52,8 +52,8 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://23.237.228.134/live8/gansu.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
 河北卫视,http://23.237.228.134/live8/hebei.m3u8
 河南卫视,http://23.237.228.134/live6/henan.m3u8
