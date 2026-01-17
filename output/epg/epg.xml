@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260117043559 +0800">
+<tv date="20260117102709 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -7454,6 +7454,12 @@
 	</programme>
 	<programme channel="黑莓电影" start="20260117103600 +0800" stop="20260117123600 +0800">
 		<title lang="zh">陪安东尼度过漫长岁月</title>
+	</programme>
+	<programme channel="黑莓电影" start="20260117123600 +0800" stop="20260117142800 +0800">
+		<title lang="zh">名侦探柯南：唐红的恋歌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20260117142800 +0800" stop="20260117163800 +0800">
+		<title lang="zh">暮光之城2：新月</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
