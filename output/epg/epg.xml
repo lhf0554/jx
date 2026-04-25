@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260425055240 +0800">
+<tv date="20260425105041 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -8853,14 +8853,14 @@
 	<programme channel="CCTV-4" start="20260426235600 +0800" stop="20260427000000 +0800">
 		<title lang="zh">风雨送春归19/40</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427000000 +0800" stop="20260427004200 +0800">
-		<title lang="zh">风雨送春归(19)</title>
+	<programme channel="CCTV-4" start="20260427000000 +0800" stop="20260427001700 +0800">
+		<title lang="zh">海峡两岸</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427004200 +0800" stop="20260427012800 +0800">
-		<title lang="zh">剧场</title>
+	<programme channel="CCTV-4" start="20260427001700 +0800" stop="20260427011600 +0800">
+		<title lang="zh">中国文艺</title>
 	</programme>
-	<programme channel="CCTV-4" start="20260427012800 +0800" stop="20260427015600 +0800">
-		<title lang="zh">中国缘</title>
+	<programme channel="CCTV-4" start="20260427011600 +0800" stop="20260427014500 +0800">
+		<title lang="zh">华人故事</title>
 	</programme>
 	<channel id="CCTV-5">
 		<display-name lang="zh">CCTV-5</display-name>
