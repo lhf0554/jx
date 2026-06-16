@@ -1,28 +1,11 @@
 🕘️更新时间,#genre#
-2026-06-16 01:50:44,http://182.114.48.172:9901/tsfile/live/0001_1.m3u8
+2026-06-16 10:39:46,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://182.114.48.172:9901/tsfile/live/0001_1.m3u8
-CCTV-1,http://182.114.48.172:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-2,http://125.43.249.150:9901/tsfile/live/1008_1.m3u8
-CCTV-7,http://182.114.48.172:9901/tsfile/live/0007_1.m3u8
-CCTV-9,http://125.43.249.150:9901/tsfile/live/1012_1.m3u8
-CCTV-9,http://182.114.48.172:9901/tsfile/live/0009_1.m3u8
-CCTV-9,http://125.43.249.150:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-9,http://182.114.48.172:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://182.114.48.172:9901/tsfile/live/0010_1.m3u8
-CCTV-10,http://182.114.48.172:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://182.114.48.172:9901/tsfile/live/0012_1.m3u8
-CCTV-14,http://125.43.249.150:9901/tsfile/live/1017_1.m3u8
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
-CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.212.72/PLTV/88888888/224/3221226858/63768493.smil
-CETV1,rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
+CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV2,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV2,rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226978/85722625.smil
 CETV2,rtsp://115.153.212.72/PLTV/88888888/224/3221226978/85722625.smil
@@ -41,17 +24,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 💰央视新影,#genre#
 
 📡卫视频道,#genre#
-湖北卫视,http://182.114.48.172:9901/tsfile/live/0132_1.m3u8
-湖北卫视,http://182.114.48.172:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://125.43.249.150:9901/tsfile/live/1037_1.m3u8
-安徽卫视,http://182.114.48.172:9901/tsfile/live/0130_1.m3u8
-安徽卫视,http://125.43.249.150:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
-安徽卫视,http://182.114.48.172:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
-东方卫视,http://182.114.48.172:9901/tsfile/live/0107_1.m3u8
-贵州卫视,http://125.43.249.150:9901/tsfile/live/1038_1.m3u8
-河北卫视,http://125.43.249.150:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-山东卫视,http://182.114.48.172:9901/tsfile/live/0131_1.m3u8
-深圳卫视,http://182.114.48.172:9901/tsfile/live/0126_1.m3u8
 
 ☘️广东频道,#genre#
 
