@@ -1,11 +1,8 @@
 🕘️更新时间,#genre#
-2026-06-23 01:23:10,http://125.42.150.56:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+2026-06-23 10:06:06,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-4,http://125.42.150.56:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://101.66.194.49:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-14,http://101.66.198.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
@@ -32,10 +29,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 💰央视新影,#genre#
 
 📡卫视频道,#genre#
-广东卫视,http://101.66.194.49:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0
-湖北卫视,http://101.66.194.49:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0
-黑龙江卫视,http://101.66.194.49:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0
-天津卫视,http://125.42.150.56:9901/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -46,5 +39,3 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
-天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
-天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
