@@ -1,19 +1,8 @@
 🕘️更新时间,#genre#
-2026-07-12 09:30:57,http://115.48.161.108:9901/tsfile/live/0006_1.m3u8
+2026-07-12 14:35:33,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-6,http://115.48.161.108:9901/tsfile/live/0006_1.m3u8
-CCTV-7,http://115.48.161.108:9901/tsfile/live/0007_1.m3u8
-CCTV-7,http://115.48.161.108:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://115.48.161.108:9901/tsfile/live/0008_1.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
-CCTV-10,http://115.48.161.108:9901/tsfile/live/0010_1.m3u8
-CCTV-11,http://115.48.161.108:9901/tsfile/live/0011_1.m3u8
-CCTV-11,http://115.48.161.108:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-12,http://115.48.161.108:9901/tsfile/live/0012_1.m3u8
-CCTV-12,http://115.48.161.108:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-14,http://115.48.161.108:9901/tsfile/live/0014_1.m3u8
-CCTV-15,http://115.48.161.108:9901/tsfile/live/0015_1.m3u8
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
@@ -41,11 +30,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 
 📡卫视频道,#genre#
-北京卫视,http://115.48.161.108:9901/tsfile/live/0122_1.m3u8
-北京卫视,http://115.48.161.108:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
-重庆卫视,http://115.48.161.108:9901/tsfile/live/0142_1.m3u8
-重庆卫视,http://115.48.161.108:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://115.48.161.108:9901/tsfile/live/0139_1.m3u8
 
 ☘️广东频道,#genre#
 
