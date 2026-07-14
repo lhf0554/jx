@@ -1,11 +1,29 @@
 🕘️更新时间,#genre#
-2026-07-13 23:38:58,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+2026-07-14 09:20:51,http://mg.cttv.vip/608807420
 
 📺央视频道,#genre#
+CCTV-1,http://mg.cttv.vip/608807420
+CCTV-2,http://mg.cttv.vip/631780532
+CCTV-3,http://mg.cttv.vip/624878271
+CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
+CCTV-4,http://mg.cttv.vip/631780421
+CCTV-5,http://mg.cttv.vip/641886683
+CCTV-5+,http://mg.cttv.vip/641886773
+CCTV-6,http://mg.cttv.vip/624878396
+CCTV-7,http://mg.cttv.vip/673168121
+CCTV-8,http://mg.cttv.vip/624878356
+CCTV-9,http://mg.cttv.vip/673168140
+CCTV-10,http://mg.cttv.vip/624878405
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
+CCTV-11,http://mg.cttv.vip/667987558
+CCTV-12,http://mg.cttv.vip/673168185
+CCTV-13,http://mg.cttv.vip/608807423
+CCTV-14,http://mg.cttv.vip/624878440
+CCTV-15,http://mg.cttv.vip/673168223
+CCTV-17,http://mg.cttv.vip/673168256
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
