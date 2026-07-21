@@ -1,26 +1,10 @@
 🕘️更新时间,#genre#
-2026-07-21 14:33:21,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8
+2026-07-21 19:50:44,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 
 📺央视频道,#genre#
-CCTV-2,http://125.43.247.15:9901/tsfile/live/1008_1.m3u8
-CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8
-CCTV-5,http://125.43.247.15:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8
-CCTV-6,http://125.43.247.15:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8
-CCTV-7,http://125.43.247.15:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8
-CCTV-8,http://125.43.247.15:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-10,http://125.43.247.15:9901/tsfile/live/1013_1.m3u8
-CCTV-11,http://125.43.247.15:9901/tsfile/live/1014_1.m3u8
-CCTV-13,http://125.43.247.15:9901/tsfile/live/1016_1.m3u8
-CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8
-CCTV-14,http://125.43.247.15:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-15,http://125.43.247.15:9901/tsfile/live/1018_1.m3u8
-CCTV-15,http://125.43.247.15:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
 CETV1,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226858/63768493.smil
@@ -45,28 +29,6 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 世界地理,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001620/index.m3u8
 
 📡卫视频道,#genre#
-广东卫视,http://125.43.247.15:9901/tsfile/live/1026_1.m3u8
-广东卫视,http://125.43.247.15:9901/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-湖南卫视,http://125.43.247.15:9901/tsfile/live/1021_1.m3u8
-湖北卫视,http://125.43.247.15:9901/tsfile/live/1033_1.m3u8
-黑龙江卫视,http://125.43.247.15:9901/tsfile/live/1024_1.m3u8
-安徽卫视,http://125.43.247.15:9901/tsfile/live/1037_1.m3u8
-重庆卫视,http://125.43.247.15:9901/tsfile/live/1025_1.m3u8
-东南卫视,http://125.43.247.15:9901/tsfile/live/1028_1.m3u8
-广西卫视,http://125.43.247.15:9901/tsfile/live/1027_1.m3u8
-贵州卫视,http://125.43.247.15:9901/tsfile/live/1038_1.m3u8
-河北卫视,http://125.43.247.15:9901/tsfile/live/1032_1.m3u8
-河北卫视,http://125.43.247.15:9901/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
-河南卫视,http://125.43.247.15:9901/tsfile/live/1019_1.m3u8
-江苏卫视,http://125.43.247.15:9901/tsfile/live/1030_1.m3u8
-江苏卫视,http://125.43.247.15:9901/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
-江西卫视,http://125.43.247.15:9901/tsfile/live/1034_1.m3u8
-辽宁卫视,http://125.43.247.15:9901/tsfile/live/1022_1.m3u8
-山东卫视,http://125.43.247.15:9901/tsfile/live/1023_1.m3u8
-四川卫视,http://125.43.247.15:9901/tsfile/live/1039_1.m3u8
-四川卫视,http://125.43.247.15:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0
-云南卫视,http://125.43.247.15:9901/tsfile/live/1029_1.m3u8
-云南卫视,http://125.43.247.15:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 
 ☘️广东频道,#genre#
 
@@ -77,4 +39,5 @@ CETV4,rtsp://115.153.254.81/PLTV/88888888/224/3221226905/65242632.smil
 🎬电影频道,#genre#
 
 🏀体育频道,#genre#
+天津体育,http://38.75.136.137:98/gslb/dsdqpub/tjtv5.m3u8?auth=testpub
 天津体育,http://ak.cj022.com:10080/hls/6/index.m3u8
