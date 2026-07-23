@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260723014600 +0800">
+<tv date="20260723063256 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -25074,11 +25074,8 @@
 	<programme channel="宁夏卫视" start="20260723070100 +0800" stop="20260723073000 +0800">
 		<title lang="zh">宁夏新闻联播</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20260723073000 +0800" stop="20260723075200 +0800">
+	<programme channel="宁夏卫视" start="20260723073000 +0800" stop="20260723081000 +0800">
 		<title lang="zh">新闻早点到</title>
-	</programme>
-	<programme channel="宁夏卫视" start="20260723075200 +0800" stop="20260723081000 +0800">
-		<title lang="zh">这里是宁夏</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20260723081000 +0800" stop="20260723082200 +0800">
 		<title lang="zh">国宝时刻1</title>
@@ -30126,25 +30123,28 @@
 	<programme channel="新疆卫视" start="20260722235500 +0800" stop="20260722235900 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723000000 +0800" stop="20260723002600 +0800">
+	<programme channel="新疆卫视" start="20260723000000 +0800" stop="20260723002700 +0800">
 		<title lang="zh">精彩呈现</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723002600 +0800" stop="20260723012200 +0800">
-		<title lang="zh">新疆大地</title>
+	<programme channel="新疆卫视" start="20260723002700 +0800" stop="20260723012200 +0800">
+		<title lang="zh">新疆大地(3)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723012200 +0800" stop="20260723021000 +0800">
+	<programme channel="新疆卫视" start="20260723012200 +0800" stop="20260723021300 +0800">
 		<title lang="zh">王牌部队(29)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723021000 +0800" stop="20260723025800 +0800">
+	<programme channel="新疆卫视" start="20260723021300 +0800" stop="20260723025600 +0800">
 		<title lang="zh">王牌部队(30)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723025800 +0800" stop="20260723035500 +0800">
+	<programme channel="新疆卫视" start="20260723025600 +0800" stop="20260723033000 +0800">
 		<title lang="zh">真实纪录</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723035500 +0800" stop="20260723050400 +0800">
+	<programme channel="新疆卫视" start="20260723033000 +0800" stop="20260723040200 +0800">
+		<title lang="zh">真实纪录</title>
+	</programme>
+	<programme channel="新疆卫视" start="20260723040200 +0800" stop="20260723050500 +0800">
 		<title lang="zh">破晓东方(19)</title>
 	</programme>
-	<programme channel="新疆卫视" start="20260723050400 +0800" stop="20260723061300 +0800">
+	<programme channel="新疆卫视" start="20260723050500 +0800" stop="20260723061300 +0800">
 		<title lang="zh">破晓东方(20)</title>
 	</programme>
 	<programme channel="新疆卫视" start="20260723061300 +0800" stop="20260723072300 +0800">
@@ -42639,26 +42639,26 @@
 	<programme channel="陕西卫视" start="20260723070100 +0800" stop="20260723072900 +0800">
 		<title lang="zh">陕西新闻联播</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723072900 +0800" stop="20260723080000 +0800">
+	<programme channel="陕西卫视" start="20260723072900 +0800" stop="20260723075500 +0800">
 		<title lang="zh">盟卡车神之龙兽觉醒</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723080000 +0800" stop="20260723085100 +0800">
-		<title lang="zh">薛仁贵传奇(33)</title>
+	<programme channel="陕西卫视" start="20260723075500 +0800" stop="20260723084200 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723085100 +0800" stop="20260723094100 +0800">
-		<title lang="zh">薛仁贵传奇(34)</title>
+	<programme channel="陕西卫视" start="20260723084200 +0800" stop="20260723093400 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723094100 +0800" stop="20260723103600 +0800">
-		<title lang="zh">薛仁贵传奇(35)</title>
+	<programme channel="陕西卫视" start="20260723093400 +0800" stop="20260723102700 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723103600 +0800" stop="20260723113100 +0800">
-		<title lang="zh">薛仁贵传奇(36)</title>
+	<programme channel="陕西卫视" start="20260723102700 +0800" stop="20260723111800 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723113100 +0800" stop="20260723122700 +0800">
-		<title lang="zh">薛仁贵传奇(37)</title>
+	<programme channel="陕西卫视" start="20260723111800 +0800" stop="20260723121900 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
-	<programme channel="陕西卫视" start="20260723122700 +0800" stop="20260723132300 +0800">
-		<title lang="zh">薛仁贵传奇(38)</title>
+	<programme channel="陕西卫视" start="20260723121900 +0800" stop="20260723132300 +0800">
+		<title lang="zh">薛仁贵传奇</title>
 	</programme>
 	<programme channel="陕西卫视" start="20260723132300 +0800" stop="20260723142000 +0800">
 		<title lang="zh">隋唐英雄之薛刚反唐(1)</title>
