@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-01 03:18:07,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+2026-09-01 10:28:37,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
@@ -182,8 +182,8 @@ CCTV-17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
 CCTV-17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
 CCTV-17,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225765/index.m3u8
-CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
+CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
 CETV1,http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
 CETV1,http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 CETV1,rtsp://115.153.254.81/PLTV/88888888/224/3221226858/63768493.smil
@@ -210,22 +210,23 @@ CETV4,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226905/65242632.smil
 央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=be37d16b874e7ba11dd383d7ecd75752&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+风云音乐,https://live.264788.xyz/channel/fengyunyinyue?streamid=1b41fb9153cba3ee19bd5d1b323da27e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 第一剧场,https://live.264788.xyz/channel/diyijuchang
+第一剧场,https://live.264788.xyz/channel/diyijuchang?streamid=d81e188b59ece96b7e8f1ce34aea3ef8&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 第一剧场,http://cdn.jdshipin.com:8880/huya.php?id=11342390
 第一剧场,http://co-sg3.jdiptv.cc/live/zgdy.m3u8
 第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 第一剧场,https://100.061833.xyz/stream/mytv/null-6/stream.m3u8
 第一剧场,http://tl.061833.xyz/tl/null-6
 风云剧场,https://live.264788.xyz/channel/fengyunjuchang
-风云剧场,https://live.264788.xyz/channel/fengyunjuchang?streamid=31e7b5b7032d25dd215a4069cdee1a48&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=61d7e3621070c30a5d7ef9cae4ebb120&tm=1757357234
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=b2f39a8a6bde51405aca53e0ac0f10e9&tm=1757443317
 风云剧场,https://mursor.ottiptv.cc/mcp/fyjc.m3u8?sign=4504fb617281e8909e4259760d3b64d8&tm=1757535222
 怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang
+怀旧剧场,https://live.264788.xyz/channel/huaijiujuchang?streamid=7e5d1abdddde08f588234f3f640f75ff&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8
 怀旧剧场,https://mursor.ottiptv.cc/mcp/hjjc.m3u8?sign=522e32e258aa0937f7ab79ccd7e83530&tm=1757357234
@@ -463,7 +464,7 @@ CETV4,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226905/65242632.smil
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视,http://dsj.motem.top:8880/bptv/10000100000000050000000003887427.m3u8
 内蒙古卫视,http://[2409:8087:1a01:df::401a]:80/wh7f454c46tw3029083262_-802204014/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8?icpid=88888888&RTS=1713969858&from=4&hms_devid=128&prioritypopid=4&online=1713969858&vqe=3
-宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=e1236348f815c36a0429357e5b5c5f10&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi?streamid=1b2952717a920173e66d4a348f9dcb5c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 宁夏卫视,https://live.264788.xyz/channel/ningxiaweishi
 宁夏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010110
 宁夏卫视,http://z.b.bkpcp.top/m.php?id=nxws
@@ -514,6 +515,7 @@ CETV4,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226905/65242632.smil
 陕西卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226457/index.m3u8
 陕西卫视,https://www.freetv.top/migu/738910838.m3u8?migutoken=3899cd1daaa04f812c6d4b13126e3c00ad177635abc5559f1b596e814ff8eb3d745e7bd40b881206a2852a5ed041ca424112cf1d9b385c72ea9de42c8d86f45227af0f51a8b4f4c18a038a8e6d
 四川卫视,https://live.264788.xyz/channel/sichuanweishi4k
+四川卫视,https://live.264788.xyz/channel/sichuanweishi4k?streamid=401bf692a1a8b91298f26077d53316d6&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://z.b.bkpcp.top/m.php?id=scws
 四川卫视,http://j.x.bkpcp.top/jx/SICHD
@@ -522,7 +524,6 @@ CETV4,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226905/65242632.smil
 四川卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226338/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226338/index.m3u8
-四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068
 深圳卫视,http://iptv.huuc.edu.cn/hls/szhd.m3u8
 深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
@@ -931,7 +932,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 三立新闻,https://stream1.freetv.fun/san-li-xin-wen-6.ctv
 三立新闻,http://live.iill.top/youtube/@setnews/live
 三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
-三立新闻,https://stream1.freetv.fun/san-li-xin-wen-3.m3u8
 东森综合,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
 东森综合,https://hls-gateway.vpstv.net/streams/476987.m3u8
 东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
