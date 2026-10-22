@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261022091517 +0800">
+<tv date="20261022153004 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -26536,10 +26536,10 @@
 		<title lang="zh">我的幸福密码</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261022194000 +0800" stop="20261022203500 +0800">
-		<title lang="zh">伟大的转折(16)</title>
+		<title lang="zh">伟大的转折(15)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261022203500 +0800" stop="20261022213000 +0800">
-		<title lang="zh">伟大的转折(17)</title>
+		<title lang="zh">伟大的转折(16)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261022213000 +0800" stop="20261022215500 +0800">
 		<title lang="zh">宁夏新闻联播</title>
